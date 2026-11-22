@@ -1,6 +1,6 @@
 # Kubernetes-MongoDB-WebApp
 
-<img src="https://githubusercontent.com" width="100" hspace="120" alt="Kubernetes Logo" />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/960px-Kubernetes_logo_without_workmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20190926210707" width="100" hspace="120" alt="Kubernetes Logo" />
 
 The foundational architecture, demo application image, and project walkthrough for the manifests in this repository were inspired by [TechWorld with Nana](https://youtube.com) as part of a Kubernetes hands-on learning project.
 
